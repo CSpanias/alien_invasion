@@ -4,6 +4,8 @@ This is a guided project from the book: [*Python Crash Course: A Hands-On, Proje
 
 You can find more info [here](https://ehmatthes.github.io/pcc_2e/regular_index/).
 
+<img src="https://github.com/CSpanias/alien_invasion/blob/main/images/gameplay.gif" height=300>
+
 Created with:
 * Python (pygame)
 
